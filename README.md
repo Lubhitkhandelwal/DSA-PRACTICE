@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
