@@ -24,9 +24,11 @@ public:
         if(root->right==NULL && root->left!=NULL){
             return minDepth(root->left)+1;
         }
-        int left = minDepth(root->left);
-        int right = minDepth(root->right);
-        return (min(left,right)+1);
 
+
+        int leftH = minDepth(root->left);
+        int rightH = minDepth(root->right);
+
+        return min(leftH,rightH)+1;
     }
 };
