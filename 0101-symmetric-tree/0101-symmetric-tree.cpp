@@ -24,8 +24,6 @@ public:
         if(root==NULL){
             return true;
         }
-        TreeNode* left = root->left;
-        TreeNode* right = root->right;
-        return sym(left,right);
+        return sym(root->left,root->right);
     }
 };
