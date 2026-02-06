@@ -15,9 +15,7 @@ public:
         if(root==NULL){
             return 0;
         }
-        int leftH = height(root->left);
-        int rightH = height(root->right);
-        return max(leftH,rightH)+1;
+        return max(height(root->left),height(root->right))+1;
     }
     int diameterOfBinaryTree(TreeNode* root) {
         if(root==NULL){
