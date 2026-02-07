@@ -15,13 +15,15 @@ public:
         if(p==NULL || q==NULL){
             return p==q;
         }
-        bool left = sym(p->left,q->right);
-        bool right = sym(p->right,q->left);
-        return left && right && p->val==q->val;
+
+        bool isLeft = sym(p->left,q->right);
+        bool isRight = sym(p->right,q->left);
+
+        return isLeft && isRight && p->val==q->val;
     }
 
     bool isSymmetric(TreeNode* root) {
-        if(root==NULL){
+        if(root==NULL){ 
             return true;
         }
         return sym(root->left,root->right);
