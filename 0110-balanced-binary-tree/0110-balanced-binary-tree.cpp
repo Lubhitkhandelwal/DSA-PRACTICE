@@ -27,7 +27,9 @@ public:
         height(root);
         if(d>1){
             return false;
+        }else{
+            return true;
         }
-        return true;
+        
     }
 };
