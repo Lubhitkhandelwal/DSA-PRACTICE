@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0222-count-complete-tree-nodes) |
+| [0401-binary-watch](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0401-binary-watch) |
 ## String Matching
 |  |
 | ------- |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
