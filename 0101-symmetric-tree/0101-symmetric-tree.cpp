@@ -11,21 +11,17 @@
  */
 class Solution {
 public:
-    bool sym(TreeNode* p,TreeNode* q){
-        if(p==NULL || q==NULL){
+    bool check(TreeNode* p,TreeNode* q){
+        if(p==nullptr || q==nullptr){
             return p==q;
         }
 
-        bool isLeft = sym(p->left,q->right);
-        bool isRight = sym(p->right,q->left);
+        bool left = check(p->left,q->right);
+        bool right = check(p->right,q->left);
 
-        return isLeft && isRight && p->val==q->val;
+        return left && right && p->val==q->val;
     }
-
     bool isSymmetric(TreeNode* root) {
-        if(root==NULL){ 
-            return true;
-        }
-        return sym(root->left,root->right);
+        return check(root->left,root->right);
     }
 };
