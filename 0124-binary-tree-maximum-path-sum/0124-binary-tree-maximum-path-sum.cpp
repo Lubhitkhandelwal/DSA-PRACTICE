@@ -22,8 +22,6 @@ public:
         return max(leftV,rightV)+root->val;
     }
     int maxPathSum(TreeNode* root) {
-        if(root==nullptr) return 0;
-        
         int maxV = INT_MIN;
         mPath(root,maxV);
         return maxV;
