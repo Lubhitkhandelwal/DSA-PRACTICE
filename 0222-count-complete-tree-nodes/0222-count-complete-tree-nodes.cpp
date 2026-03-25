@@ -28,14 +28,17 @@ public:
         return h;
     }
     int countNodes(TreeNode* root) {
-        if(root == nullptr) return 0;
 
+        if(root==nullptr){
+            return 0;
+        }
         int lH = leftH(root);
         int rH = rightH(root);
 
         if(lH == rH){
-            return pow(2,lH)-1 ;
+            return pow(2, lH)-1;
+        }else{
+            return countNodes(root->left)+countNodes(root->right)+1;
         }
-        return countNodes(root->left)+countNodes(root->right)+1;
     }
 };
