@@ -8,7 +8,7 @@ public:
         int ans = 0;
         for(auto it:m){
             if(m.find(it.first+1)!=m.end()){
-                ans = max(ans,m[it.first]+m[it.first+1]);
+                ans = max(ans,it.second+m[it.first+1]);
             }
         }
         return ans;
