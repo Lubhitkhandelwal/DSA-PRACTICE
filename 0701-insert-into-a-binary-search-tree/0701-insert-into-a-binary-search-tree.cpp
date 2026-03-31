@@ -12,27 +12,27 @@
 class Solution {
 public:
     TreeNode* insertIntoBST(TreeNode* root, int val) {
-        TreeNode* temp = root;
+        TreeNode* ans = root;
         if(root==nullptr) return new TreeNode(val);
-        while(true){
-            if(val < temp->val){
-                if(temp->left==nullptr){
-                    TreeNode* in = new TreeNode(val);
-                    temp->left = in;
+        while(root!=nullptr){
+            if(val < root->val){
+                if(root->left==nullptr){
+                    TreeNode* curr = new TreeNode(val);
+                    root->left = curr;
                     break;
                 }
-                temp = temp->left;
-            }else if(val > temp->val){
-                if(temp->right==nullptr){
-                    TreeNode* in = new TreeNode(val);
-                    temp->right = in;
+                root = root->left;
+            }else if(val > root->val){
+                if(root->right==nullptr){
+                    TreeNode* curr = new TreeNode(val);
+                    root->right = curr;
                     break;
                 }
-                temp = temp->right;
+                root = root->right;
             }else{
                 break;
             }
         }
-        return root;
+        return ans;
     }
 };
