@@ -11,8 +11,8 @@
  */
 class Solution {
 public:
-    TreeNode* search(TreeNode* root, int key, TreeNode*& parent){
-        if(root==nullptr){
+    TreeNode* search(TreeNode* root,TreeNode*& parent, int key){
+        if(root == nullptr){
             return nullptr;
         }
 
@@ -20,30 +20,28 @@ public:
             return root;
         }else if(key < root->val){
             parent = root;
-            return search(root->left,key,parent);
+            return search(root->left,parent,key);
         }else{
             parent = root;
-            return search(root->right,key,parent);
+            return search(root->right,parent,key);
         }
     }
     TreeNode* deleteNode(TreeNode* root, int key) {
         TreeNode* parent = nullptr;
-        TreeNode* curr = search(root,key,parent);
+        TreeNode* curr = search(root,parent,key);
 
-        if(curr == nullptr){
-            return root;
-        }
-        
+        if(curr==nullptr) return root;
+
         if(curr->left && curr->right){
             TreeNode* temp = curr->right;
-            TreeNode* preTemp = curr;
+            TreeNode* prevTemp = curr;
             while(temp->left){
-                preTemp = temp;
+                prevTemp = temp;
                 temp = temp->left;
             }
             curr->val = temp->val;
-            
-            parent = preTemp;
+
+            parent = prevTemp;
             curr = temp;
         }
 
@@ -53,18 +51,14 @@ public:
         }else if(curr->right){
             child = curr->right;
         }
-        
-        if(parent==nullptr){
-            return child;
-        }
 
-        if(parent->left==curr){
+        if(parent==nullptr) return child;
+
+        if(parent->left == curr){
             parent->left = child;
-        }else{
+        }else if(parent->right ==curr){
             parent->right = child;
         }
-
         return root;
-
     }
 };
