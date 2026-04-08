@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [2069-walking-robot-simulation-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2069-walking-robot-simulation-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Backtracking
 |  |
 | ------- |
