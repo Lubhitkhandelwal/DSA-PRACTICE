@@ -34,8 +34,8 @@ public:
     }
 
     void recoverTree(TreeNode* root) {
-        first = middle = last = prev = nullptr;
-        // prev = new TreeNode(INT_MIN);
+        first = middle = last = nullptr;
+        prev = new TreeNode(INT_MIN);
         inorder(root);
         if(first && last){
             swap(first->val,last->val);
