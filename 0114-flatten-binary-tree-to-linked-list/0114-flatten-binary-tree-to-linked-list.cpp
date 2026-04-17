@@ -23,10 +23,10 @@ public:
         root->left = nullptr;
         root->right = left;
 
-        TreeNode* curr = root;
-        while(curr->right){
-            curr = curr->right;
+        TreeNode* temp = root;
+        while(temp->right){
+            temp = temp->right;       
         }
-        curr->right = right;
+        temp->right = right;
     }
 };
