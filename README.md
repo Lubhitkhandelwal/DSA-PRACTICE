@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0067-add-binary) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
