@@ -39,7 +39,7 @@ public:
     }
 
     int maxSumBST(TreeNode* root) {
-        postOrder(root).maxSum;
+        postOrder(root);
         return ans;
     }
 };
