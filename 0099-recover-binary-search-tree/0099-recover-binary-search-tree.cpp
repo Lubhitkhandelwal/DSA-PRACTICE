@@ -12,13 +12,14 @@
 class Solution {
 public:
     TreeNode* first;
-    TreeNode* prev;
     TreeNode* middle;
     TreeNode* last;
+    TreeNode* prev;
 
     void inorder(TreeNode* root){
-        if(!root) return;
-
+        if(!root){
+            return;
+        }
         inorder(root->left);
 
         if(prev && prev->val > root->val){
@@ -30,6 +31,7 @@ public:
             }
         }
         prev = root;
+
         inorder(root->right);
     }
 
