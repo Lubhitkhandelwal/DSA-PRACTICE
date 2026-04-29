@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Sliding Window
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
