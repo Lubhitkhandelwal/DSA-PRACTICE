@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0799-champagne-tower) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2463-minimum-total-distance-traveled](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2463-minimum-total-distance-traveled) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
