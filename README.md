@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Trie
 |  |
