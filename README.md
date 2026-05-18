@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1345-jump-game-iv](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1345-jump-game-iv) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1345-jump-game-iv](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1345-jump-game-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1345-jump-game-iv](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2784-check-if-array-is-good) |
 | [3714-longest-balanced-substring-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3714-longest-balanced-substring-ii) |
