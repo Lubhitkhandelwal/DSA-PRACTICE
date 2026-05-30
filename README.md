@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1345-jump-game-iv](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1345-jump-game-iv) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2784-check-if-array-is-good) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0977-squares-of-a-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1861-rotating-the-box) |
 ## Iterator
 |  |
