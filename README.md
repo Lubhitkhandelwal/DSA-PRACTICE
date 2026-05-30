@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0912-sort-an-array) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0283-move-zeroes) |
