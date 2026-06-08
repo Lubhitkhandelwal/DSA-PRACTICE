@@ -13,9 +13,9 @@ class Solution {
 public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
         int n = descriptions.size();
+        
         unordered_map<int,TreeNode*> m;
         unordered_set<int> child;
-        TreeNode* root = new TreeNode();
         
         for(int i=0;i<n;i++){
             int par = descriptions[i][0];
@@ -24,25 +24,27 @@ public:
 
             child.insert(ch);
 
-            TreeNode* temp = m.find(par)!=m.end() ? m[par]:new TreeNode(par);
-            TreeNode* ctemp = m.find(ch)!=m.end() ? m[ch]:new TreeNode(ch);
-            
-            if(m.find(par)==m.end()) m[par] = temp;
-            if(m.find(ch)==m.end()) m[ch] = ctemp;
+            if(!m.count(par)){
+                m[par] = new TreeNode(par);
+            }
+
+            if(!m.count(ch)){
+                m[ch] = new TreeNode(ch);
+            }
 
             if(dir == 1){
-                temp->left = ctemp;
+                m[par]->left = m[ch];
             }else{
-                temp->right = ctemp;
-            }    
+                m[par]->right = m[ch];
+            }
         }
 
         for(auto &d:descriptions){
             int temp = d[0];
             if(!child.count(temp)){
-                root = m[temp];
+                return m[temp];
             }
         }
-        return root;
+        return nullptr;
     }
 };
