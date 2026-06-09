@@ -1,11 +1,12 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
+        if(nums.empty()) return 0;
+        
         unordered_set<int> s;
         for(int x:nums){
             s.insert(x);
         }    
-        if(s.empty()) return 0;
 
         int ans = 1;
         for(int x:s){
