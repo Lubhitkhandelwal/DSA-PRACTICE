@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0572-subtree-of-another-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
