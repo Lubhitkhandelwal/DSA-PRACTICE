@@ -7,8 +7,6 @@ public:
 
         for(int i=0;i<n;i++){
             arr[s[i]-'a']++;
-        }
-        for(int i=0;i<n;i++){
             arr[t[i]-'a']--;
         }
 
