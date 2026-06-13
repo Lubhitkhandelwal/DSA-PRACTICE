@@ -4,11 +4,7 @@ public:
         int n = nums.size();
         int s = 0;
         int e = n-1;
-        int ans = n-1;
-
-        if(nums[e]<target){
-            return ans+1;
-        }
+        int ans = n;
 
         while(s<=e){
             int mid = s+(e-s)/2;
