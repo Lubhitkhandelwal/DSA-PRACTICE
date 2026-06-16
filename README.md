@@ -431,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0912-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
