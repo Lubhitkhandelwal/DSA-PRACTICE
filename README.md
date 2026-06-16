@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3612-process-string-with-special-operations-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3714-longest-balanced-substring-ii) |
 ## Hash Function
 |  |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2553-separate-the-digits-in-an-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Backtracking
 |  |
