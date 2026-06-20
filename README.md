@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1345-jump-game-iv) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1840-maximum-building-height](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1914-cyclically-rotating-a-grid) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0788-rotated-digits](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0788-rotated-digits) |
+| [1840-maximum-building-height](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
+| [1840-maximum-building-height](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1840-maximum-building-height) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2463-minimum-total-distance-traveled) |
