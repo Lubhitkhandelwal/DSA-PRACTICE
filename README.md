@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0173-binary-search-tree-iterator) |
+| [0739-daily-temperatures](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
+| [0739-daily-temperatures](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
