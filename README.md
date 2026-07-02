@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2784-check-if-array-is-good) |
 | [3093-longest-common-suffix-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3093-longest-common-suffix-queries) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3660-jump-game-ix](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3660-jump-game-ix) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1345-jump-game-iv](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1345-jump-game-iv) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Sliding Window
 |  |
@@ -432,10 +435,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0547-number-of-provinces) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0912-sort-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -457,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1757-recyclable-and-low-fat-products) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
