@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0217-contains-duplicate) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0242-valid-anagram) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0268-missing-number) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2833-furthest-point-from-origin) |
