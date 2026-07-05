@@ -6,16 +6,12 @@ public:
         for(int i=0;i<k;i++){
             total+=nums[i];
         }    
-        double ans = total/k;
-        int s = 1;
-        int e = k;
-        while(e<n){
-            total -= nums[s-1];
-            total += nums[e];
-            ans = max(ans,total/k);
-            s++;e++;
+        double ans = total;
+        for(int i=k;i<n;i++){
+            total += nums[i];
+            total -= nums[i-k];
+            ans = max(ans,total);
         }
-
-        return ans;
+        return ans/k;
     }
 };
