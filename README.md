@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2553-separate-the-digits-in-an-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2784-check-if-array-is-good](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
