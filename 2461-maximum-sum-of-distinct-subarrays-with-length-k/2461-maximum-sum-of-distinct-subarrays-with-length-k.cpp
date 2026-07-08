@@ -5,9 +5,9 @@ public:
         long long ans = 0;
         long long maxSum = 0;
         unordered_map<int,int> m;
-        int s=0;
+        int s = 0;
 
-        for(int e=0;e<n;e++){
+        for(int e = 0;e<n;e++){
             ans += nums[e];
             m[nums[e]]++;
 
@@ -20,13 +20,10 @@ public:
                 s++;
             }
 
-            if(e-s+1 == k){
-                if(m.size() == k){
-                    maxSum = max(maxSum,ans);
-                }
+            if(e-s+1 == k && m.size() == k){
+                maxSum = max(maxSum,ans);
             }
-        }
-
-        return maxSum;
+        }    
+        return maxSum;        
     }
 };
