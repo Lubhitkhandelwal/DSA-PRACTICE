@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0268-missing-number) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [3620-network-recovery-pathways](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3620-network-recovery-pathways) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2574-left-and-right-sum-differences](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2574-left-and-right-sum-differences) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
