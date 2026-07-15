@@ -14,7 +14,15 @@ public:
             k++;
         }
 
-        return gcd(sumOdd,sumEven);
-            
+        a = sumEven;
+        b = sumOdd;
+        
+        while(a%b != 0){
+            int rem = a%b;
+            a = b;
+            b = rem;
+        }
+
+        return b;
     }
 };
