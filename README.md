@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3093-longest-common-suffix-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3620-network-recovery-pathways) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3714-longest-balanced-substring-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2574-left-and-right-sum-differences](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -418,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2833-furthest-point-from-origin) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -517,6 +523,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
