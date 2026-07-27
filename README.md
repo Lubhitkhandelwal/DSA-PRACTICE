@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1288-remove-covered-intervals) |
 | [1345-jump-game-iv](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1345-jump-game-iv) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1840-maximum-building-height](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1840-maximum-building-height) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1840-maximum-building-height](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3620-network-recovery-pathways) |
 ## Merge Sort
