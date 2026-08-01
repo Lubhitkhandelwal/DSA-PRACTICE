@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0594-longest-harmonious-subsequence](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0486-predict-the-winner](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0799-champagne-tower) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0788-rotated-digits) |
 | [1840-maximum-building-height](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1840-maximum-building-height) |
@@ -558,4 +561,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
