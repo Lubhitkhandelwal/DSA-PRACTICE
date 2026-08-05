@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1382-balance-a-binary-search-tree) |
+| [3310-remove-methods-from-project](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1345-jump-game-iv](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1345-jump-game-iv) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3310-remove-methods-from-project) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0547-number-of-provinces) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3310-remove-methods-from-project) |
 | [3620-network-recovery-pathways](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
