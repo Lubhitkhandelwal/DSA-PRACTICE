@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1189-maximum-number-of-balloons) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0799-champagne-tower) |
+| [0940-distinct-subsequences-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2463-minimum-total-distance-traveled](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
