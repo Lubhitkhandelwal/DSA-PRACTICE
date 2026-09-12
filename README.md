@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3620-network-recovery-pathways](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2463-minimum-total-distance-traveled) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3660-jump-game-ix) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2463-minimum-total-distance-traveled) |
 | [2784-check-if-array-is-good](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2784-check-if-array-is-good) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
