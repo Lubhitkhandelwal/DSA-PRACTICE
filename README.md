@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0200-number-of-islands) |
+| [0835-image-overlap](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1260-shift-2d-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1861-rotating-the-box](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1861-rotating-the-box) |
