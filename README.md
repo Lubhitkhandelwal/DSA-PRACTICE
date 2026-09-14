@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1840-maximum-building-height](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
@@ -602,4 +603,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
