@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2833-furthest-point-from-origin) |
 | [3093-longest-common-suffix-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3093-longest-common-suffix-queries) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0940-distinct-subsequences-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2463-minimum-total-distance-traveled](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Iterator
 |  |
 | ------- |
