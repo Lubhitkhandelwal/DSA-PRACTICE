@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1840-maximum-building-height](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -615,4 +616,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
