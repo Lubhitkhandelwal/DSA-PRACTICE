@@ -1,20 +1,33 @@
 class Solution {
 public:
-    int minOperations(vector<int>& A, int x) {
-        int k = reduce(A.begin(), A.end()) - x, n = A.size();
-        if (k < 0) return -1;
-        if (k == 0) return n;
+    int minOperations(vector<int>& nums, int x) {
+        int n = nums.size();
+        int total = 0;
+        for(int i=0;i<n;i++){
+            total += nums[i];
+        }    
 
-        int best = -1, i = 0, sum = 0;
-        for (int j = 0; j < n; j++) {
-            sum += A[j];
-            while (sum > k)
-                sum -= A[i++];
+        int target = total - x;
+        if(target < 0) return -1;
 
-            if (sum == k)
-                best = max(best, j - i + 1);
+        int s = 0;
+        int sum = 0;
+        int maxLen = -1;
+        for(int e=0;e<n;e++){
+            sum += nums[e];
+
+            while(sum > target){
+                sum -= nums[s];
+                s++;
+            }
+
+            if(sum == target){
+                maxLen = max(maxLen,e-s+1);
+            }
         }
-
-        return best + 1 ? n - best : -1;
+        if(maxLen == -1){
+            return -1;
+        }
+        return n - maxLen;
     }
 };
