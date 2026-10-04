@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0572-subtree-of-another-tree) |
+| [0678-valid-parenthesis-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1382-balance-a-binary-search-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0799-champagne-tower) |
 | [0940-distinct-subsequences-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0940-distinct-subsequences-ii) |
@@ -642,5 +646,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
