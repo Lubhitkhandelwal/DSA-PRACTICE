@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3612-process-string-with-special-operations-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3614-process-string-with-special-operations-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3714-longest-balanced-substring-ii) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3483-unique-3-digit-even-numbers) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3714-longest-balanced-substring-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 ## Segment Tree
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2784-check-if-array-is-good) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting
 |  |
 | ------- |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
