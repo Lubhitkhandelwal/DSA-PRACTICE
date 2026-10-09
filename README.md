@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Tree
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1382-balance-a-binary-search-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
