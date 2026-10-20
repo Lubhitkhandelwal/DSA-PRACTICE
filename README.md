@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3783-mirror-distance-of-an-integer) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3886-sum-of-sortable-integers](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
 |  |
 | ------- |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
