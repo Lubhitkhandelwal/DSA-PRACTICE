@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3614-process-string-with-special-operations-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3714-longest-balanced-substring-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Lubhitkhandelwal/DSA-PRACTICE/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Function
 |  |
 | ------- |
